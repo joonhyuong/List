@@ -1,5 +1,8 @@
 package egovframework.example.cmmn.MyList.controller;
 
+
+//test
+
 import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.beans.factory.annotation.Autowired;
